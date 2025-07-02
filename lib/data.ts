@@ -132,5 +132,5 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "Javascript", "Python", "Bash", "HTML", "CSS", "Express.js", "Next.js", "React.js", "NoSQL", "SQL", "Linux", "Windows", "Penetration Testing",  "Exploitation", "Privilege Escalation", "Vulnerability Scanning", "Tunneling", "Kali Linux", "Nmap", "OWASP Top 10", "Wireshark", "Burpsuite", "Metasploit", "Nikto", "Hashcat", "FFUF","Aircrack-ng", "SQLMap", "Git", "GitHub", "Postman", "Figma", "VS Code", 
+  "Javascript","Networking", "Python", "Bash", "HTML", "CSS", "Express.js", "Next.js", "React.js", "NoSQL", "SQL", "Linux", "Windows", "Penetration Testing",  "Exploitation", "Privilege Escalation", "Vulnerability Scanning", "Tunneling", "Kali Linux", "Nmap", "OWASP Top 10", "Wireshark", "Burpsuite", "Metasploit", "DataStructure and algorithims","Aircrack-ng", "SQLMap", "Git", "GitHub", "Postman", "Figma", "VS Code", 
 ] as const;
