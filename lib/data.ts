@@ -77,7 +77,8 @@ export const experiencesData = [
   //   `,
   //   icon: React.createElement(CgWorkAlt),
   //   date: "October 2024 - Present",
-  // },{
+  // },
+  {
   title: "Nanodegree Graduate – Programming Foundations",
   location: "Udacity (Online)",
   description: `
