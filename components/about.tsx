@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
 <p className="mb-3 leading-relaxed text-lg text-gray-700 dark:text-gray-300">
   I’m a passionate, <span className="font-semibold text-primary">Penetration Tester</span> with a solid foundation in 
-  <span className="font-semibold text-primary"> Vulnerability Assessment and Penetration Testing (VAPT)</span>. Currently pursuing a 
+  <span className="font-semibold text-primary"> Vulnerability Assessment and Penetration Testing (VAPT)</span>.
   <span className="font-semibold text-primary"> BSc in Computer Science</span> in Ethiopia, I continuously enhance my practical skills 
   by solving real-world <span className="font-semibold text-primary">Capture The Flag (CTF)</span> challenges on platforms like 
   <span className="font-semibold text-primary"> Hack The Box</span> and <span className="font-semibold text-primary">TryHackMe</span>. 
