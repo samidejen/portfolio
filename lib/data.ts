@@ -69,15 +69,15 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "August 2023 - December 2023",
   },
-  {
-    title: "Associate Cyber Security Consultant",
-    location: "Remote",
-    description: `
-      I worked as an Associate Cyber Security Consultant at Security Brigade Infosec.
-    `,
-    icon: React.createElement(CgWorkAlt),
-    date: "October 2024 - Present",
-  },{
+  // {
+  //   title: "Associate Cyber Security Consultant",
+  //   location: "Remote",
+  //   description: `
+  //     I worked as an Associate Cyber Security Consultant at Security Brigade Infosec.
+  //   `,
+  //   icon: React.createElement(CgWorkAlt),
+  //   date: "October 2024 - Present",
+  // },{
   title: "Nanodegree Graduate – Programming Foundations",
   location: "Udacity (Online)",
   description: `
