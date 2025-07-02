@@ -70,14 +70,19 @@ export const experiencesData = [
     date: "August 2023 - December 2023",
   },
   // {
-  //   title: "Associate Cyber Security Consultant",
-  //   location: "Remote",
-  //   description: `
-  //     I worked as an Associate Cyber Security Consultant at Security Brigade Infosec.
-  //   `,
-  //   icon: React.createElement(CgWorkAlt),
-  //   date: "October 2024 - Present",
-  // },
+{
+  title: "Associate Cyber Security Consultant",
+  location: "DMU University, Burie Campus",
+  description: `
+    I worked remotely as an Associate Cyber Security Consultant at Security  studying at DMU University (Burie Campus).
+    I performed vulnerability assessments and penetration testing on web and mobile applications, focusing on OWASP Top 10 issues.
+    I used tools like Burp Suite, Nmap, and SQLmap to identify security flaws and helped prepare reports with recommendations for fixing them.
+    This role helped me apply my classroom knowledge to real-world cybersecurity challenges.
+  `,
+  icon: React.createElement(CgWorkAlt),
+  date: "October 2024 – 2025",
+}
+,
   {
   title: "Nanodegree Graduate – Programming Foundations",
   location: "Udacity (Online)",
