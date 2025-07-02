@@ -104,14 +104,14 @@ export const projectsData = [
   liveUrl: "https://mahieco.onrender.com/", // Replace with actual deployed link
 }
 ,
-  {
-    title: "CipherGuard",
-    description:
-      "Cipher Guard is a cutting-edge security application designed for robust data protection. Built on Mern , this project offers a modern and efficient platform to secure digital credentials.",
-    tags: ["React", "MongoDB", "Tailwind", "Express"],
-    imageUrl: cipherGuard,
-    liveUrl:"#",
-  },
+  // {
+  //   title: "CipherGuard",
+  //   description:
+  //     "Cipher Guard is a cutting-edge security application designed for robust data protection. Built on Mern , this project offers a modern and efficient platform to secure digital credentials.",
+  //   tags: ["React", "MongoDB", "Tailwind", "Express"],
+  //   imageUrl: cipherGuard,
+  //   liveUrl:"#",
+  // },
   {
     title: "Personal Portfolio",
     description:
