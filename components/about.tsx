@@ -29,7 +29,7 @@ export default function About() {
   <span className="font-semibold text-primary"> Full Stack Developer</span>, building secure web applications using technologies like 
   <span className="font-semibold text-primary"> React</span>, <span className="font-semibold text-primary">Node.js</span>, 
   <span className="font-semibold text-primary">MongoDB</span>, and <span className="font-semibold text-primary">Express</span> — with a strong focus on implementing best practices for 
-  <span className="font-semibold text-primary">authentication</span>, <span className="font-semibold text-primary">authorization</span>, and 
+  <span className="font-semibold text-primary"> authentication</span>, <span className="font-semibold text-primary">authorization</span>, and 
   <span className="font-semibold text-primary"> secure coding</span>.
 </p>
 
