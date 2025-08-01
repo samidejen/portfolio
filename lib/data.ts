@@ -88,7 +88,7 @@ export const experiencesData = [
   location: "Udacity (Online)",
   description: `
     Completed the Udacity Fundamentals of Programming Nanodegree Program, gaining a strong 
-    foundation in Python, problem-solving, control flow, data structures, and basic algorithms. 
+    foundation in Python, C++, Java, problem-solving, control flow, data structures, and basic algorithms. 
     Built interactive mini-projects and scripts that demonstrated logical thinking and clean code practices.
   `,
   icon: React.createElement(CgWorkAlt) ,
