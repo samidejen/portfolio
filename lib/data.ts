@@ -93,7 +93,20 @@ export const experiencesData = [
   `,
   icon: React.createElement(CgWorkAlt) ,
   date: "August 2024",
+},
+  {
+  title: "Cybersecurity Trainee / Intern",
+  location: "Information Network Security Administration (INSA), Addis Ababa, Ethiopia",
+  description: `
+    Participated in a cybersecurity internship focused on network security, penetration testing, and system hardening. 
+    Conducted vulnerability assessments and analyzed potential threats using tools such as Wireshark, Nmap, and Kali Linux. 
+    Assisted in monitoring, maintaining, and securing internal IT infrastructure. 
+    Gained hands-on experience in incident response, secure configurations, and threat mitigation in a real-world environment.
+  `,
+  icon: React.createElement(CgWorkAlt),
+  date: "June 2025 – August 2025",
 }
+
 
 
 ] as const;
